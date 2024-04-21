@@ -2,7 +2,7 @@
 <h2>Dataset Used</h2>
 <p><a href="https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2sthelook_ecommerce">Bigquery Public Dataset- thelook_ecommerce</a>  </p>
 <h2>What is it ?</h2>
-<p>This interactive dashboard provides insights on sales revenue related datapoints for the ecommerce platform "The Look".A Fictitious E-Commerce Dataset fro Google Bigquery public dataset is the source for this dashboard.This dashboard has Sales revenue,Profit,Margin and total orders for the sales.This also provide insights of revenue and profit across different distribution centers and total revenue and profit over the period.Since dataset is dynamic and huge,file size breached upload size limit.<b href="https://drive.google.com/file/d/1X1oL9_k_-5CSEv7draGZNEu7CQst26IF/view?usp=drive_link">You can find the powerbi file here </b> </p>
+<p>This interactive dashboard provides insights on sales revenue related datapoints for the ecommerce platform "The Look".A Fictitious E-Commerce Dataset fro Google Bigquery public dataset is the source for this dashboard.This dashboard has Sales revenue,Profit,Margin and total orders for the sales.This also provide insights of revenue and profit across different distribution centers and total revenue and profit over the period.Since dataset is dynamic and huge,file size breached upload size limit.<a href="https://drive.google.com/file/d/1X1oL9_k_-5CSEv7draGZNEu7CQst26IF/view?usp=drive_link">You can download the pbix file from here </a> </p>
 <h2>DAX Used</h2>
 <p>ORDER_YEAR - Year extracted from column "created_at" in format MM/DD/YYYY HH:MM:SS <br>
 ORDER_MONTH - Month extracted from column "created_at" in format MM/DD/YYYY HH:MM:SS<br>
